@@ -3,6 +3,8 @@
  # bulid
 This is a Grasshopper port of the Ivy Generator, and includes a C++ dll.
 Download the project file and open "ivy.sln" with VisualStudio2019. You will see two projects in the solution. Set the platform of the "core" C++ project to "X64"
+# low C++ code level
+I started this project in 2021. At that time, I was a C++ beginner, so the C++ code level of this project was very poor (—_—)
  # c++dll function
 This "core" project generates a c++ dll file and exports some functions, including all the functions of ivy_Generator:
 ```
