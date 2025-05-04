@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "7wep7zCc1nOF33o2Xt9BGk0X9SWbWXdxHrzJai4sUsK68DBRE1SLEt5voRCFIoA0VXv7t1tfv4ZhcoSB8qMC7Q==",
+  "success": true,
+  "projectFilePath": "F:\\电脑\\repos\\ivy\\ivy_Generator\\ivy_Generator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\YCY\\.nuget\\packages\\grasshopper\\7.9.21222.15001\\grasshopper.7.9.21222.15001.nupkg.sha512",
+    "C:\\Users\\YCY\\.nuget\\packages\\rhinocommon\\7.9.21222.15001\\rhinocommon.7.9.21222.15001.nupkg.sha512"
+  ],
+  "logs": []
+}

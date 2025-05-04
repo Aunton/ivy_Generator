@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "ivy_Generator": {
+      "commandName": "Executable",
+      "executablePath": "F:\\Rhino 8\\System\\Rhino.exe",
+      "nativeDebugging": true
+    }
+  }
+}
